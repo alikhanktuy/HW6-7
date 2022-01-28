@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HT6", "HT6\HT6.csproj", "{B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HT6Tests", "HT6Tests\HT6Tests.csproj", "{B9BA80AD-AB1E-45BF-9A15-5C960D91D7A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallHT6", "CallHT6\CallHT6.csproj", "{F5549173-8DD8-4A91-A4E5-507D6DD8444C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallHT6", "CallHT6\CallHT6.csproj", "{F5549173-8DD8-4A91-A4E5-507D6DD8444C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5027C18-2C1E-436D-B8EC-BC70ECFBB330}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\SQLQueries.sql = ..\..\..\Downloads\SQLQueries.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
